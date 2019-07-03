@@ -3,11 +3,13 @@ Sample implementation of sklearn naive bayes algorithm to predict employee attri
 
 The code also sampled how saving and loading of model and labelencoders so that it can be use for future prediction without the need of re-training the model.
 
+This project is a great reference for developing a new categorical classification with sklearn.
+
 ## Requirements
-pip install pandas
-pip install numpy
-pip install scipy
-pip install scikit-learn
+pip install pandas<br/>
+pip install numpy<br/>
+pip install scipy<br/>
+pip install scikit-learn<br/>
 
 
 
